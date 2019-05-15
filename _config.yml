@@ -1,11 +1,11 @@
 title: My Jekyll DXD Blog
-author: Daniel da Silva
-email: email@example.com
+author: Leo Xavier
+email: leonardo.xavier@gmail.com
 description: > # this means to ignore newlines until "exclude"
   This is a demo site used for the class of
   "Linguagens e Tecnologias Digitais" about Jekyll
 
-baseurl: /jekyll-dxd
+baseurl: /
 
 exclude:
   - Gemfile
@@ -20,6 +20,6 @@ date_format: "%b %-d, %Y"
 
 # generate social links in footer
 social_links:
-  twitter: danielfdsilva
-  github:  danielfdsilva
+  twitter: lxvr
+  github:  leoxavier
   # facebook:
